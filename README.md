@@ -103,7 +103,7 @@ House-Price-Prediction
 ### 1️⃣ Clone the Repository
 
 ```id="g3nltg"
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Shivam22601/house-price-prediction.git
 ```
 
 ---
